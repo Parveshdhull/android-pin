@@ -2,8 +2,9 @@
 
 A simple JAVA class that can create multiple PIN views in a layout and auto executes code on entering PIN
 
-![pin](https://user-images.githubusercontent.com/17097240/117448836-daf0d380-af5c-11eb-8c19-4359b48df928.gif)
-
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/17097240/117448836-daf0d380-af5c-11eb-8c19-4359b48df928.gif" width="200"/>
+</p>
 
 ## Prerequisite
 1. Copy files from res folder to your specific folders in your project
