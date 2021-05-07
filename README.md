@@ -1,9 +1,12 @@
 # android-pin - Easily create multiple PIN views 
 
 A simple JAVA class that can create multiple PIN views in a layout and auto executes code on entering PIN
+![pin](https://user-images.githubusercontent.com/17097240/117448836-daf0d380-af5c-11eb-8c19-4359b48df928.gif)
+
 
 ## Prerequisite
-In your XML file, create a LinearLayout or RelativeLayout where you want to insert PIN view and keep note of the ID
+1. Copy files from res folder to your specific folders in your project
+2. In your XML file, create a LinearLayout or RelativeLayout where you want to insert PIN view and keep note of the ID
 
 ## Usage
 ### 1. Creating PIN
