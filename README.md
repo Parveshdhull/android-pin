@@ -21,7 +21,7 @@ PINClass pinClass = new PINClass(this, R.id.linear_layout_insert_id, new Callabl
 	}
 });
 ```
-** NOTE:** You can keep the last argument as null, if you don't want any code to be auto executed
+**NOTE:** You can keep the last argument as null, if you don't want any code to be auto executed
 
 ### 2. Other Functions
 
